@@ -1,0 +1,5 @@
+License
+
+All content copyright Esper (https://github.com/notanotheresper), all rights reserved.
+
+The web page uses the CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/) licensed template Phantom by HTML5UP (https://html5up.net/).
